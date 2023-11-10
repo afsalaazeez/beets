@@ -1,0 +1,16 @@
+id,name,description,price
+123,John Doe,High quality product,99.99
+456,Jane Doe,Low quality product,49.99
+789,Jim Bean,Medium quality product,74.99
+abc,Jack Daniels,,29.99
+def,,Excellent product,89.99
+ghi,Jill Smith,Inferior product,
+jkl,Joe Bloggs,,,
+mno,Peter Parker,Superior product,119.99
+pqr,,Average product,64.99
+stu,Vanessa Williams,Poor product,
+vwx,Yvonne Strahovski,First-rate product,129.99
+yz1,Zoe Saldana,,79.99
+234,Chris Hemsworth,Second-rate product,
+567,,Third-rate product,39.99
+890,Dwayne Johnson,Fourth-rate product,109.99
