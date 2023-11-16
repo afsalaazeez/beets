@@ -1,0 +1,21 @@
+id,name,description,price
+1,John Doe,An average Joe,100
+2,Jane Doe,Just another Jane,200
+3,234567,Not a name,300
+4,Richard Roe,Quite rich indeed,400
+5,,Just some guy,500
+6,Larry Page,Co-founder of Google,
+7,123456,Not a name,700
+8,Elon Musk,CEO of SpaceX,800
+9,Mark Zuckerberg,CEO of Facebook,
+10,Bill Gates,Co-founder of Microsoft,1000
+11,Sundar Pichai,CEO of Alphabet Inc.,
+12,Jeff Bezos,Founder of Amazon,1200
+13,Warren Buffet,CEO of Berkshire Hathaway,1300
+14,,CEO of Tesla,1400
+15,Steve Jobs,Co-founder of Apple Inc.,1500
+16,Satoshi Nakamoto,Inventor of Bitcoin,1600
+17,Jack Dorsey,CEO of Twitter,1700
+18,423456,Not a name,1800
+19,Linus Torvalds,Creator of Linux,1900
+20,Guido van Rossum,Creator of Python,2000

@@ -1,0 +1,23 @@
+id,name,description,price
+1,John Doe,Good customer,200
+2,,Regular customer,150
+3,Jane Doe,,100
+4,Robert Brown,Valued customer,
+5,Mary Johnson,Occasional customer,50
+5000,1000,New customer,300
+6,James Smith,,200
+7,,Frequent customer,250
+8,Patricia Williams,Good customer,
+9,Michael Johnson,Regular customer,100
+10,Linda Davis,Valued customer,150
+string,David Miller,,200
+11,,Occasional customer,100
+12,Jennifer Wilson,Good customer,
+13,William Moore,Regular customer,50
+14,Susan Taylor,Valued customer,300
+15,Brian Anderson,,150
+16,Emma Thompson,Good customer,
+17,Jack Jackson,Regular customer,100
+18,Sophia Martinez,Valued customer,200
+19,Oliver Thomas,,50
+20,Isabella Rodriguez,Good customer,100
