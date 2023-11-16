@@ -1,0 +1,21 @@
+productId,name,description,price
+1,John Doe,This is a test product,100
+2,Jane Doe,Another test product,200
+3,,Yet another test product,300
+4,Jacob Smith,This is a different product,
+5,Emily Johnson,This is the final product,500
+6,Michael Williams,,600
+7,Emma Brown,This is a unique product,
+8,James Davis,This is a special product,800
+9,Olivia Miller,This is a common product,
+10,William Wilson,This is a rare product,1000
+11,Amelia Moore,This is a popular product,1100
+12,Benjamin Taylor,This is a hot product,1200
+13,Sofia Anderson,,1300
+14,Alexander Thomas,This is a cool product,
+15,Evelyn Jackson,This is a fresh product,1500
+16,Mia White,This is a new product,1600
+17,Harper Harris,This is a old product,
+18,Ethan Martin,This is a vintage product,1800
+19,Charlotte Thompson,This is a retro product,1900
+20,Michael Garcia,This is a modern product,
