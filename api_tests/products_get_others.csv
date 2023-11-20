@@ -1,0 +1,11 @@
+name,description,price
+John Doe,This is a dummy description,250.50
+Jane Doe,,100.00
+,Sample description,500
+Richard Roe,Another dummy description,
+Doe John,Inverted name description,300.75
+45678,This is a number name,200.25
+,Empty name and description,
+Doe Jane,Inverted name description 2,450.00
+Roe Richard,,350.50
+John Doe,Repeated name,400.00
