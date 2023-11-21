@@ -1,0 +1,11 @@
+id,name,description,price
+1,John Doe,A nice product,100
+2,Jane Smith,Another nice product,200
+3,234,Product with number as name,300
+4,,Product with no name,400
+5,Empty Description,,
+6,Wrong Price,This product has a string as price,Two Hundred
+7,Missing ID,,A product with no ID,700
+8,Inappropriate Data Types,This ID is a string,StringID
+9,James Johnson,Normal Product,900
+10,Emma Johnson,Another Normal Product,1000
