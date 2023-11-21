@@ -1,0 +1,12 @@
+id,name,description,price
+12345,John Doe,This is a test description,19.99
+,James Smith,,25.0
+67890,,Another test description,30.0
+24680,Robert Johnson,Yet another test description,
+13579,Mary Johnson,More test descriptions,50.0
+86420,Patricia Williams,Final test description,100.0
+,Charles Brown,Inconsistent data,abc
+123abc,Michael Davis,,12.34
+951357,,This is a missing name,xyz
+789xyz,Elizabeth Miller,This is a missing price,100.0
+,Thomas Wilson,Missing name and price,
