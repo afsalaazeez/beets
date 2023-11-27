@@ -1,0 +1,11 @@
+productId,name,description,price
+1234,John Doe,Lorem ipsum dolor sit amet,100.5
+5678,Jane Doe,Consectetur adipiscing elit,200.3
+9012,Jim Doe,Sed do eiusmod tempor,,
+3456,,Ut labore et dolore magna aliqua,400.8
+7890,Joy Doe,,500.1
+2345,Jack Doe,Excepteur sint occaecat cupidatat non proident,600.7
+6789,Julie Doe,In culpa qui officia deserunt mollit,,
+0123,Jerry Doe,Duis aute irure dolor in reprehenderit,900.6
+4567,Jill Doe,,1000.4
+8901,Joe Doe,Quis nostrud exercitation ullamco laboris nisi,1100.2
