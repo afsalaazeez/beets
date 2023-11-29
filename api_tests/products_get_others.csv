@@ -1,0 +1,11 @@
+id,name,description,price
+1,John Doe,This is a dummy description,100
+2,Jane Doe,Another dummy description,200
+three,Robert Smith,Yet another dummy description,300
+4,50,This is a dummy description with a numerical name,400
+5,Mary Johnson,This is a dummy description with a missing price,
+6,,This is a dummy description with a missing name,600
+7,James Brown,This is a dummy description with a missing price and a numerical id,seven
+8,Patricia Davis,,800
+nine,Charles Miller,This is a dummy description with a mixed numerical and string id,900
+10,Jennifer Wilson,This is a dummy description with a missing price,
