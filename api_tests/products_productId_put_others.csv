@@ -1,0 +1,35 @@
+productId,name,description,price
+123,John Doe,High Quality Product,100
+456,Jane Doe,Low Quality Product,50
+789,Product123,This is a great product,200
+101112,John Smith,Average Quality Product,
+131415,,This product is not so good,75
+161718,Mike Johnson,This is a terrible product,25
+192021,Alice Johnson,,150
+222324,David Smith,This is the best product,300
+252627,Product456,,350
+282930,Product789,This is the worst product,
+313233,John Doe,High Quality Product,400
+343536,Jane Doe,Low Quality Product,450
+373839,Product123,This is a great product,500
+404142,John Smith,,550
+434445,,This product is not so good,600
+464748,Mike Johnson,This is a terrible product,650
+495051,Alice Johnson,,700
+525354,David Smith,This is the best product,750
+555657,Product456,,800
+585960,Product789,This is the worst product,850
+616263,John Doe,High Quality Product,900
+646566,Jane Doe,Low Quality Product,950
+676869,Product123,This is a great product,1000
+707172,John Smith,Average Quality Product,1050
+737475,,This product is not so good,1100
+767778,Mike Johnson,This is a terrible product,1150
+797881,Alice Johnson,,1200
+818283,David Smith,This is the best product,1250
+848586,Product456,,1300
+878889,Product789,This is the worst product,1350
+909192,John Doe,High Quality Product,1400
+939495,Jane Doe,Low Quality Product,1450
+969798,Product123,This is a great product,1500
+999100,John Smith,,1550

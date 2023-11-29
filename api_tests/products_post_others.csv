@@ -1,0 +1,11 @@
+id,name,description,price
+1,John Doe,This is a sample description,20.5
+two,Alice,,400
+3,Bob Smith,Another description,300.75
+four,charlie,Yet another description,
+5,,Sample description,100
+six,David,This is a long description with multiple sentences. It goes on and on. Even though it doesn't make much sense.,200.5
+7,Eve,Short description,
+eight,Frank,,500.75
+9,Greg,This description is a single word,1000
+ten,Hannah,This description is a single word but the price field is empty,
