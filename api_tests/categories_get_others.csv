@@ -1,0 +1,12 @@
+statusCode
+{"500":{"description":"Internal server error"}},
+{"200":{"description":"OK"}},
+{"404":{"description":"Not Found"}},
+{"403":{"description":"Forbidden"}},
+{"400":{"description":"Bad Request"}},
+{"500":{"description":"Internal server error"}},
+{"201":{"description":"Created"}},
+{"204":{"description":"No Content"}},
+{"401":{"description":"Unauthorized"}},
+{"405":{"description":"Method Not Allowed"}},
+{"500":{"description":"Internal server error"}}
