@@ -1,0 +1,11 @@
+statusCode,categoryName,categoryID
+500,Books,1
+500,Music,2
+500,Games,3
+500,Electronics,4
+500,Clothing,5
+500,Sports,6
+500,Toys,7
+500,Groceries,8
+500,Home,9
+500,Garden,10
