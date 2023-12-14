@@ -1,0 +1,11 @@
+username,password,statusCode
+johnDoe,12345678,{\n    \"500\": {\n        \"description\": \"Internal server error\"\n    }\n}
+janeDoe,password1,{\n    \"500\": {\n        \"description\": \"Internal server error\"\n    }\n}
+admin,admin123,{\n    \"500\": {\n        \"description\": \"Internal server error\"\n    }\n}
+guest,guest123,{\n    \"500\": {\n        \"description\": \"Internal server error\"\n    }\n}
+user1,password1,{\n    \"500\": {\n        \"description\": \"Internal server error\"\n    }\n}
+user2,password2,{\n    \"500\": {\n        \"description\": \"Internal server error\"\n    }\n}
+user3,password3,{\n    \"500\": {\n        \"description\": \"Internal server error\"\n    }\n}
+user4,password4,{\n    \"500\": {\n        \"description\": \"Internal server error\"\n    }\n}
+user5,password5,{\n    \"500\": {\n        \"description\": \"Internal server error\"\n    }\n}
+user6,password6,{\n    \"500\": {\n        \"description\": \"Internal server error\"\n    }\n}
