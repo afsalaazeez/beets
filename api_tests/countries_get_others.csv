@@ -1,0 +1,11 @@
+statusCode,countryName
+500,United States
+200,France
+200,Spain
+500,Germany
+404,Italy
+500,Canada
+200,Brazil
+404,Argentina
+200,Australia
+500,Japan

@@ -1,0 +1,11 @@
+statusCode,description
+200,Successful operation
+201,Successfully created
+202,Accepted for processing
+204,No content
+205,Reset content
+206,Partial content
+207,Multi-status
+208,Already reported
+226,IM used
+300,Multiple choices

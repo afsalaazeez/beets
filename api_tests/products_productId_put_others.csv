@@ -1,0 +1,11 @@
+productId,name,description,price
+1001,Apple,Delicious red apple,20
+1002,Banana,Yellow ripe banana,15
+1003,Orange,Citrus fruit,25
+1004,,Berry fruit,30
+1005,Strawberry,,10
+1006,Blueberry,Blue colored berry,20
+1007,,,
+1008,Peach,Sweet and juicy fruit,40
+1009,Apple,Green apple,20
+1010,Lemon,Citrus fruit,15

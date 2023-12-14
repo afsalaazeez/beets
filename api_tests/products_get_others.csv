@@ -1,0 +1,11 @@
+productId,productName,statusCode
+1,Apple,"{\"500\":{\"description\":\"Internal server error\"}}"
+2,Banana,"{\"500\":{\"description\":\"Internal server error\"}}"
+3,Carrot,"{\"500\":{\"description\":\"Internal server error\"}}"
+4,Dates,"{\"500\":{\"description\":\"Internal server error\"}}"
+5,Eggplant,"{\"500\":{\"description\":\"Internal server error\"}}"
+6,Fig,"{\"500\":{\"description\":\"Internal server error\"}}"
+7,Grapes,"{\"500\":{\"description\":\"Internal server error\"}}"
+8,Honeydew,"{\"500\":{\"description\":\"Internal server error\"}}"
+9,Iceberg Lettuce,"{\"500\":{\"description\":\"Internal server error\"}}"
+10,Jalapeno,"{\"500\":{\"description\":\"Internal server error\"}}"

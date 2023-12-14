@@ -1,0 +1,11 @@
+id,name,description,price
+1,banana,description of the product,30
+2,apple,,50
+3,,description of the product,20
+4,grape,description of the product,
+5,orange,description of the product,60
+6,apple,description of the product,50
+7,banana,,40
+8,grape,description of the product,30
+9,orange,,50
+10,apple,description of the product,20
