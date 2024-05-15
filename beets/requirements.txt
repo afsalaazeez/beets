@@ -1,0 +1,13 @@
+beets
+colorama
+confuse
+jellyfish
+munkres
+musicbrainzngs
+Pillow
+py7zr
+pytest
+rarfile
+reflink
+typing_extensions
+Unidecode
